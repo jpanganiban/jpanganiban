@@ -1,0 +1,48 @@
+body {
+  background-image: url('/static/images/darkdenim3.png');
+}
+
+#jpanganiban {
+  padding-top: 8em;
+  margin: auto;
+  width: 960px;
+}
+
+#jp {
+  font-size: 8em;
+  font-family: 'Oleo Script', cursive;
+  font-weight: normal;
+  text-align: center;
+}
+
+#jp a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+#jp a:hover {
+  color: #fff;
+}
+
+#links {
+  font-size: 1.5em;
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+#links li {
+  display: inline-block;
+}
+
+#links li a {
+  font-family: 'Oxygen', sans-serif;
+  text-decoration: none;
+  color: #777;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#links li a:hover {
+  color: #fff;
+}
