@@ -28,7 +28,7 @@ body {
 #about {
   color: #ccc;
   font-family: 'Reenie Beanie', cursive;
-  font-size: 1.8em;
+  font-size: 2em;
   padding-bottom: 1em;
   padding-top: 0.5em;
   text-align: center;
@@ -36,7 +36,7 @@ body {
 
 #links {
   padding: 0;
-  font-size: 1.3em;
+  font-size: 1.2em;
   list-style: none;
   text-align: center;
 }
@@ -55,4 +55,19 @@ body {
 
 #links li a:hover {
   color: #fff;
+}
+
+#footer {
+  padding-top: 2em;
+  margin: auto;
+  width: 800px;
+}
+
+#footer #bored {
+  color: #ccc;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 1.2em;
+  padding-bottom: 1em;
+  padding-top: 0.5em;
+  text-align: right;
 }
